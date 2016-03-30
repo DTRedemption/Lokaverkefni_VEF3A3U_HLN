@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="8480237e-2504-4080-bf62-204d4335ebbb" name="DigitalOcean" url="http://178.62.115.192">
+        <fileTransfer host="178.62.115.192" port="22" privateKey="C:\Users\Notandi\Desktop\School Stuff\Term 4 and onwards\5th term\VEF3A3U\sshkeys\pri.ppk" rootFolder="/var/www/lokaverkefni-vef3a" accessType="SFTP" username="root" keyPair="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
