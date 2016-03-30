@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0a74b2a7-0879-4a38-8e75-c20da4921144" name="Default" comment="" />
+    <list default="true" id="0a74b2a7-0879-4a38-8e75-c20da4921144" name="Default" comment="Updating.">
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/.name" afterPath="" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/.idea/lokaverkefni-3a.iml" afterPath="$PROJECT_DIR$/.idea/lokaverkefni-vef3a.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+    </list>
     <ignored path="Lokaverkefni.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path=".idea/dataSources.local.xml" />
@@ -187,13 +192,13 @@
         <subPane>
           <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="lokaverkefni-3a" />
+              <option name="myItemId" value="lokaverkefni-vef3a" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="lokaverkefni-3a" />
+              <option name="myItemId" value="lokaverkefni-vef3a" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -311,7 +316,7 @@
       <option name="presentableId" value="Default" />
       <updated>1455508363872</updated>
       <workItem from="1459336885819" duration="1824000" />
-      <workItem from="1459338878348" duration="668000" />
+      <workItem from="1459338878348" duration="866000" />
     </task>
     <task id="LOCAL-00001" summary="test phpstorm github link">
       <created>1455508652222</created>
@@ -366,7 +371,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2492000" />
+    <option name="totallyTimeSpent" value="2690000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
