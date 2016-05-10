@@ -10,7 +10,7 @@ class GetFileController extends Controller
 {
     public function download(File $file)
     {
-
+        
         header("Content-disposition: attachment; filename=".$file->filename);
         header("Content-type: ".$file->mime);
         readfile(storage_path('app/public/uploaded_files/'.$file->storedname));
