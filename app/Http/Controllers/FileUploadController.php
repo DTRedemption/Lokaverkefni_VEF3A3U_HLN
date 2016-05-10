@@ -27,7 +27,7 @@ class FileUploadController extends Controller {
                 $fileid = uniqid();
                 DB::table('fileinfo')->insert([
                     ['filename' => $file->getClientOriginalName(), 'filetype' => $file->getClientOriginalExtension(),
-                     'mime' => $file->getMimeType(), 'filesize' => $file->getClientSize(),
+                     'storedname' => $savedFileName, 'mime' => $file->getMimeType(), 'filesize' => $file->getClientSize(),
                         'filepath' => storage_path('app/public/uploaded_files/' . $savedFileName),
                         'downloadid' => $fileid
                     ]

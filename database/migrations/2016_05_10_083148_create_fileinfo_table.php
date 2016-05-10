@@ -16,6 +16,7 @@ class CreateFileinfoTable extends Migration
             $table->increments('id');
             $table->string('filename');
             $table->string('filetype');
+            $table->string('storedname');
             $table->string('mime');
             $table->integer('filesize');
             $table->string('filepath');
